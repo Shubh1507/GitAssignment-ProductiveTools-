@@ -1,4 +1,5 @@
-/*Editing done in edit-branch(1)*/ 
+/*Editing done in edit-branch(1)*
+and Gitbash/ 
 
 import java.util.Scanner;
 
